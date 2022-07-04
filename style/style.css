@@ -349,9 +349,43 @@
         display: block;
         margin-left: 50%;
     }
-    
-  
 
+.course-container{
+        clear: both;
+        margin-top: 7em;
+       /* background-color: aquamarine;*/
+        padding: 1em;
+        padding-top: 17em;
+    }    
+
+    .course-container h1{
+        color: tomato;
+    }
+
+    .lec-img{
+        
+        width: 100;
+       
+        /*width: 250px;
+        height: 50;*/
+        margin-bottom: 1em;
+    }
+
+    .lectures a{
+        text-decoration: none;
+        display: block;
+        padding-top: 10px;
+    }
+    
+    .lectures{
+        
+        padding-left: 10px;
+    }
+    
+    .lecture{
+        margin-top: 20px;
+    }
+    
 
 
 
